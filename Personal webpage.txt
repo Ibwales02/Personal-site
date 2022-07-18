@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css" />
+        <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Black+Ops+One&family=Creepster&family=La+Belle+Aurore&family=MedievalSharp&family=Orbitron&family=Rye&display=swap" rel="stylesheet">
+        <script src="index.js"></script>
+    </head>
+    <body>
+        <img src="https://i.pinimg.com/736x/70/a6/fe/70a6fec1b83cf9932d098be7ce92a235--script-fonts-free-font-free.jpg">
+        <h1>Hi, my name is Ibrahim Oyewale</h1>
+        <h2>Fun facts about me:</h2>
+        <ul>
+            <li>16 years old</li>
+            <li>I'm a Web Developer</li>
+            <li>Live in Nigeria</li>
+            <li>I love to eat masa</li>
+        </ul>
+        <p>Please connect with me on <a href="https://instagram.com/ib wales?igshid=YmMy MTA2M2Y=" taget="_blank">Instagram here.</a></p>
+        <input type="text" placeholder="Enter Email address">
+        <button>Join newsletter</button>
+    </body>
+</html>
